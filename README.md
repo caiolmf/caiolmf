@@ -12,10 +12,8 @@ Tryber de coração :green_heart:   #Go<img src="https://raw.githubusercontent.c
 
 Aprendendo a contribuir com a comunidade Open-Source. Semppre fui embaixador do ideal Open-Source mas não possuia as habilidades para tal tarefa.
 <br />
-<img src="https://raw.githubusercontent.com/caiolmf/caiolmf/master/imgs/open-love.png" width="100px">
-<!--
-**caiolmf/caiolmf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://raw.githubusercontent.com/caiolmf/caiolmf/master/imgs/open-love.png" style="margin-top: 10px"width="100px">
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -25,5 +23,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
