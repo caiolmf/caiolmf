@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/caiolmf/caiolmf/master/imgs/profile-banner.png "Header")]
+![Header](https://raw.githubusercontent.com/caiolmf/caiolmf/master/imgs/profile-banner.png "Header")
 
 ### Hi there 👋
 
