@@ -4,7 +4,7 @@
 
 Meu nome é Caio Magalhães e sou Desenvolvedor Full-Stack atualmente focado em front-end e aprimorando meus conhecimentos em back-end. Sempre aprendendo DevOps.
 
-Tryber de coração :green_heart:   #GoTrybe <img src="https://raw.githubusercontent.com/caiolmf/caiolmf/master/imgs/trybe-logo.png" width="35px"> 
+Tryber de coração :green_heart:   #Go<img src="https://raw.githubusercontent.com/caiolmf/caiolmf/master/imgs/trybe-logo.png" width="40px"> 
 <!--
 **caiolmf/caiolmf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
