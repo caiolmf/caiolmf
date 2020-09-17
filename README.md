@@ -28,6 +28,16 @@ No App **Ratatouille**, desenvolvido em conjunto com o squad GrupoZeroQuatro na 
 <br />
 **E-mail** | [caio.lmf@gmail.com](mailto:caio.lmf@gmail.com)
 
+## :chart_with_upwards_trend: GitHub Stats
+
+<a href="https://github.com/caiolmf/caiolmf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolmf&hide=shell&theme=vue-dark" style="max-width:100%;" />
+</a>
+<a href="https://github.com/caiolmf/caiolmf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caiolmf&theme=vue-dark" style="max-width:100%;" />
+</a>
+
+
 <!-- 
 Here are some ideas to get you started:
 
