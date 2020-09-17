@@ -22,6 +22,11 @@ No App **Ratatouille**, desenvolvido em conjunto com o squad GrupoZeroQuatro na 
 
 [![Ratatouille card](https://github-readme-stats.vercel.app/api/pin/?username=caiolmf&repo=ratatouille&theme=vue-dark)](https://github.com/caiolmf/ratatouille)
 
+## :dart: Como me encontrar...
+
+**LinkedIn** | [https://linkedin.com/in/caiolmf](https://linkedin.com/in/caiolmf)
+<br />
+**E-mail** | [caio.lmf@gmail.com](mailto:caio.lmf@gmail.com)
 
 <!-- 
 Here are some ideas to get you started:
