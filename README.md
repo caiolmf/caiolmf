@@ -8,13 +8,22 @@ Tryber de coração :green_heart:   #Go<img src="https://raw.githubusercontent.c
 
 <br />
 
-## :question: Estou atualmente aprendendo...
+## :question: Atualmente aprendendo...
 
 Aprendendo a contribuir com a comunidade Open-Source. Semppre fui embaixador do ideal Open-Source mas não possuia as habilidades para tal tarefa.
 <br />
 Continuamente aprendendo DevOps.
 <br />
 <img src="https://raw.githubusercontent.com/caiolmf/caiolmf/master/imgs/open-love.png" style="margin-top: 10px"width="100px">
+
+<br />
+## Atualmente trabalhando em ...
+
+No App **Ratatouille**, desenvolvido em conjunto com o squad GrupoZeroQuatro na Trybe. 
+
+[![Ratatouille card](https://github-readme-stats.vercel.app/api/pin/?username=caiolmf&repo=ratatouille&theme=vue-dark)](https://github.com/caiolmf/ratatouille)
+
+
 <!-- 
 Here are some ideas to get you started:
 
