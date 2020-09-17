@@ -14,10 +14,9 @@ Aprendendo a contribuir com a comunidade Open-Source. Semppre fui embaixador do 
 <br />
 Continuamente aprendendo DevOps.
 <br />
-<img src="https://raw.githubusercontent.com/caiolmf/caiolmf/master/imgs/open-love.png" style="margin-top: 10px"width="100px">
+<img src="https://raw.githubusercontent.com/caiolmf/caiolmf/master/imgs/open-love.png" width="100px">
 
-<br />
-## Atualmente trabalhando em ...
+## :construction_worker: Atualmente trabalhando em ...
 
 No App **Ratatouille**, desenvolvido em conjunto com o squad GrupoZeroQuatro na Trybe. 
 
