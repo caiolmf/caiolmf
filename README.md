@@ -23,11 +23,11 @@ No App **Ratatouille**, desenvolvido em conjunto com o squad GrupoZeroQuatro na 
 
 Refatorando o app **Star Wars planets db**, desenvolvido na Trybe (Refatorando para aprimorar a experiência com **styled-componets** e **hooksstate**). 
 
-[![Star Wars card](https://github-readme-stats.vercel.app/api/pin/?username=caiolmf&repo=starwars-db&theme=vue-dark)](https://github.com/caiolmf/ratatouille)
+[![Star Wars card](https://github-readme-stats.vercel.app/api/pin/?username=caiolmf&repo=starwars-db&theme=vue-dark)](https://github.com/caiolmf/starwars-db)
 
 Crypto-watcher
 
-[![crypto card](https://github-readme-stats.vercel.app/api/pin/?username=caiolmf&repo=crypto-watcher&theme=vue-dark)](https://github.com/caiolmf/ratatouille)
+[![crypto card](https://github-readme-stats.vercel.app/api/pin/?username=caiolmf&repo=crypto-watcher&theme=vue-dark)](https://github.com/caiolmf/crypto-watcher)
 
 ## :dart: Como me encontrar...
 
