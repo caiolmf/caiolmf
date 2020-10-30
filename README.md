@@ -10,17 +10,24 @@ Tryber de coração :green_heart:   #Go<img src="https://raw.githubusercontent.c
 
 ## :question: Atualmente aprendendo...
 
-Aprendendo a contribuir com a comunidade Open-Source. Semppre fui embaixador do ideal Open-Source mas não possuia as habilidades para tal tarefa.
+Aprendendo a contribuir com a comunidade Open-Source. Semppre fui embaixador do ideal Open-Source mas não possuia as habilidades necessárias para contribuir com a comunidade. <img src="https://raw.githubusercontent.com/caiolmf/caiolmf/master/imgs/open-love.png" width="100px">
 <br />
 Continuamente aprendendo DevOps.
 <br />
-<img src="https://raw.githubusercontent.com/caiolmf/caiolmf/master/imgs/open-love.png" width="100px">
 
 ## :construction_worker: Atualmente trabalhando em ...
 
 No App **Ratatouille**, desenvolvido em conjunto com o squad GrupoZeroQuatro na Trybe. 
 
 [![Ratatouille card](https://github-readme-stats.vercel.app/api/pin/?username=caiolmf&repo=ratatouille&theme=vue-dark)](https://github.com/caiolmf/ratatouille)
+
+Refatorando o app **Star Wars planets db**, desenvolvido na Trybe (Refatorando para aprimorar a experiência com **styled-componets** e **hooksstate**). 
+
+[![Star Wars card](https://github-readme-stats.vercel.app/api/pin/?username=caiolmf&repo=starwars-db&theme=vue-dark)](https://github.com/caiolmf/ratatouille)
+
+Crypto-watcher
+
+[![crypto card](https://github-readme-stats.vercel.app/api/pin/?username=caiolmf&repo=crypto-watcher&theme=vue-dark)](https://github.com/caiolmf/ratatouille)
 
 ## :dart: Como me encontrar...
 
